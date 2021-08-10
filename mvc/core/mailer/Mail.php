@@ -33,7 +33,7 @@
 //Set gmail username
 	$mail->Username = "shinekawamoto@gmail.com";
 //Set gmail password
-	$mail->Password = "Ntd272586006";
+	$mail->Password = "tự điền mật khẩu mail cần setup";
 //Email subject
 	$mail->Subject = "Thông báo đơn hàng";
 //Set sender email
